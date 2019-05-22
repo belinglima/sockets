@@ -1,0 +1,18 @@
+{
+  "name": "trabalhoCV",
+  "version": "1.0.0",
+  "description": "Trabalho avaliativo CV",
+  "main": "index.js",
+  "keywords": [
+    "socket.io",
+    "QuadroNegro"
+  ],
+  "dependencies": {
+    "express": "4.9.x",
+    "socket.io": "latest"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Salomão Lima"
+}
